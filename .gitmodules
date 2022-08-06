@@ -23,3 +23,8 @@
 	url = https://github.com/vincentarelbundock/wdi
 	shallow = true
 	registered = true
+[submodule "Brobdingnag"]
+	path = Brobdingnag
+	url = https://github.com/RobinHankin/Brobdingnag
+	shallow = true
+	registered = false
