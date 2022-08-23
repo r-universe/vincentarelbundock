@@ -4,5 +4,23 @@
     "url": "https://github.com/RobinHankin/Brobdingnag",
     "via": ["marginaleffects"],
     "from": "marginaleffects"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["modelsummary"],
+    "from": "modelsummary"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["modelsummary", "parameters"],
+    "from": "modelsummary"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["modelsummary"],
+    "from": "modelsummary"
   }
 ]
