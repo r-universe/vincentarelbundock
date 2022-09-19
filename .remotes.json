@@ -1,11 +1,5 @@
 [
   {
-    "package": "Brobdingnag",
-    "url": "https://github.com/RobinHankin/Brobdingnag",
-    "via": ["marginaleffects"],
-    "from": "marginaleffects"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["modelsummary"],
