@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "marginaleffects",
+    "oncran": true
+  },
+  {
     "package": "modelsummary",
     "oncran": true
   },

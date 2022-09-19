@@ -8,6 +8,11 @@
 	url = https://github.com/vincentarelbundock/countrycode
 	shallow = true
 	registered = true
+[submodule "marginaleffects"]
+	path = marginaleffects
+	url = https://github.com/vincentarelbundock/marginaleffects
+	shallow = true
+	registered = true
 [submodule "modelsummary"]
 	path = modelsummary
 	url = https://github.com/vincentarelbundock/modelsummary
