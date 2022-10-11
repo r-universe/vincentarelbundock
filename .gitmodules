@@ -23,11 +23,6 @@
 	url = https://github.com/vincentarelbundock/wdi
 	shallow = true
 	registered = true
-[submodule "effectsize"]
-	path = effectsize
-	url = https://github.com/easystats/effectsize
-	shallow = true
-	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight

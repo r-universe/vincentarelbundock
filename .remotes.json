@@ -1,11 +1,5 @@
 [
   {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["modelsummary", "parameters"],
-    "from": "modelsummary"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["marginaleffects"],
@@ -15,6 +9,12 @@
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["modelsummary"],
+    "from": "modelsummary"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["modelsummary", "parameters"],
     "from": "modelsummary"
   },
   {
