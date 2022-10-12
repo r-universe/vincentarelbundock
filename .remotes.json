@@ -14,12 +14,24 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["modelsummary", "performance"],
+    "from": "modelsummary"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["modelsummary", "parameters"],
     "from": "modelsummary"
   },
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["modelsummary"],
+    "from": "modelsummary"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
     "via": ["modelsummary"],
     "from": "modelsummary"
   }

@@ -33,3 +33,8 @@
 	url = https://github.com/easystats/parameters
 	shallow = true
 	registered = false
+[submodule "performance"]
+	path = performance
+	url = https://github.com/easystats/performance
+	shallow = true
+	registered = false
