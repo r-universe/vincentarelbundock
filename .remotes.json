@@ -2,12 +2,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["marginaleffects"],
-    "from": "marginaleffects"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["modelsummary"],
     "from": "modelsummary"
   },
