@@ -23,8 +23,3 @@
 	url = https://github.com/vincentarelbundock/wdi
 	shallow = true
 	registered = true
-[submodule "tinyviztest"]
-	path = tinyviztest
-	url = https://github.com/vincentarelbundock/tinyviztest
-	shallow = true
-	registered = false
