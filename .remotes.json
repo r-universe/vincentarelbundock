@@ -1,6 +1,6 @@
 [
   {
-    "package": "tinyviztest",
+    "package": "tinysnapshot",
     "url": "https://github.com/vincentarelbundock/tinyviztest",
     "via": ["modelsummary"],
     "from": "modelsummary"
