@@ -1,6 +1,12 @@
 [
   {
     "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["marginaleffects"],
+    "from": "marginaleffects"
+  },
+  {
+    "package": "tinysnapshot",
     "url": "https://github.com/vincentarelbundock/tinyviztest",
     "via": ["modelsummary"],
     "from": "modelsummary"

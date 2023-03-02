@@ -25,6 +25,6 @@
 	registered = true
 [submodule "tinysnapshot"]
 	path = tinysnapshot
-	url = https://github.com/vincentarelbundock/tinyviztest
+	url = https://github.com/vincentarelbundock/tinysnapshot
 	shallow = true
 	registered = false
