@@ -7,7 +7,7 @@
   },
   {
     "package": "tinysnapshot",
-    "url": "https://github.com/vincentarelbundock/tinyviztest",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
     "via": ["modelsummary"],
     "from": "modelsummary"
   }
