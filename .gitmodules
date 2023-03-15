@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "modelsummary"]
-	path = modelsummary
-	url = https://github.com/vincentarelbundock/modelsummary
+[submodule "countrycode"]
+	path = countrycode
+	url = https://github.com/vincentarelbundock/countrycode
 	shallow = true
 	registered = true
 [submodule "marginaleffects"]
@@ -13,14 +13,14 @@
 	url = https://github.com/vincentarelbundock/marginaleffects
 	shallow = true
 	registered = true
+[submodule "modelsummary"]
+	path = modelsummary
+	url = https://github.com/vincentarelbundock/modelsummary
+	shallow = true
+	registered = true
 [submodule "WDI"]
 	path = WDI
 	url = https://github.com/vincentarelbundock/wdi
-	shallow = true
-	registered = true
-[submodule "countrycode"]
-	path = countrycode
-	url = https://github.com/vincentarelbundock/countrycode
 	shallow = true
 	registered = true
 [submodule "tinysnapshot"]

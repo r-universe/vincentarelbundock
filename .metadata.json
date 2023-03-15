@@ -1,6 +1,6 @@
 [
   {
-    "package": "modelsummary",
+    "package": "countrycode",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "WDI",
+    "package": "modelsummary",
     "oncran": true
   },
   {
-    "package": "countrycode",
+    "package": "WDI",
     "oncran": true
   }
 ]
