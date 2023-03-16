@@ -1,18 +1,14 @@
 [
   {
-    "package": "countrycode",
-    "oncran": true
+    "package": "countrycode"
   },
   {
-    "package": "marginaleffects",
-    "oncran": true
+    "package": "marginaleffects"
   },
   {
-    "package": "modelsummary",
-    "oncran": true
+    "package": "modelsummary"
   },
   {
-    "package": "WDI",
-    "oncran": true
+    "package": "WDI"
   }
 ]
