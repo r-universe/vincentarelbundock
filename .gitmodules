@@ -18,6 +18,11 @@
 	url = https://github.com/vincentarelbundock/modelsummary
 	shallow = true
 	registered = true
+[submodule "softbib"]
+	path = softbib
+	url = https://github.com/vincentarelbundock/softbib
+	shallow = true
+	registered = true
 [submodule "tinysnapshot"]
 	path = tinysnapshot
 	url = https://github.com/vincentarelbundock/tinysnapshot
