@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WDI"]
+	path = WDI
+	url = https://github.com/vincentarelbundock/wdi
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
@@ -17,6 +20,3 @@
 [submodule "tinysnapshot"]
 	path = tinysnapshot
 	url = https://github.com/vincentarelbundock/tinysnapshot
-[submodule "WDI"]
-	path = WDI
-	url = https://github.com/vincentarelbundock/wdi
