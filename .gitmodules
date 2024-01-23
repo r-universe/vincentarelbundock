@@ -20,3 +20,6 @@
 [submodule "tinysnapshot"]
 	path = tinysnapshot
 	url = https://github.com/vincentarelbundock/tinysnapshot
+[submodule "tinytable"]
+	path = tinytable
+	url = https://github.com/vincentarelbundock/tinytable
