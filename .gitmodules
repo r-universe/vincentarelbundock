@@ -5,6 +5,10 @@
 [submodule "WDI"]
 	path = WDI
 	url = https://github.com/vincentarelbundock/wdi
+[submodule "altdoc"]
+	path = altdoc
+	url = https://github.com/etiennebacher/altdoc
+	registered = false
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
