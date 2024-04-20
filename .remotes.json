@@ -2,7 +2,19 @@
   {
     "package": "altdoc",
     "url": "https://github.com/etiennebacher/altdoc",
+    "via": ["modelsummary", "tinytable"],
+    "from": "modelsummary"
+  },
+  {
+    "package": "altdoc",
+    "url": "https://github.com/etiennebacher/altdoc",
     "via": ["tinytable"],
     "from": "tinytable"
+  },
+  {
+    "package": "tinytable",
+    "url": "https://github.com/vincentarelbundock/tinytable",
+    "via": ["modelsummary"],
+    "from": "modelsummary"
   }
 ]
