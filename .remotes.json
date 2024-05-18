@@ -1,11 +1,5 @@
 [
   {
-    "package": "altdoc",
-    "url": "https://github.com/etiennebacher/altdoc",
-    "via": ["modelsummary", "tinytable"],
-    "from": "modelsummary"
-  },
-  {
     "package": "tinytable",
     "url": "https://github.com/vincentarelbundock/tinytable",
     "via": ["modelsummary"],
