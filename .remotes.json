@@ -2,6 +2,12 @@
   {
     "package": "tinysnapshot",
     "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["modelsummary", "tinytable"],
+    "from": "modelsummary"
+  },
+  {
+    "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
     "via": ["tinytable"],
     "from": "tinytable"
   },
