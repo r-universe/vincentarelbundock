@@ -8,6 +8,10 @@
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
+[submodule "litedown"]
+	path = litedown
+	url = https://github.com/yihui/litedown
+	registered = false
 [submodule "marginaleffects"]
 	path = marginaleffects
 	url = https://github.com/vincentarelbundock/marginaleffects
@@ -23,3 +27,7 @@
 [submodule "tinytable"]
 	path = tinytable
 	url = https://github.com/vincentarelbundock/tinytable
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
+	registered = false

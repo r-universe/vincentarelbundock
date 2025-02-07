@@ -1,0 +1,14 @@
+[
+  {
+    "package": "litedown",
+    "url": "https://github.com/yihui/litedown",
+    "via": ["tinytable"],
+    "from": "tinytable"
+  },
+  {
+    "package": "xfun",
+    "url": "https://github.com/yihui/xfun",
+    "via": ["tinytable"],
+    "from": "tinytable"
+  }
+]
