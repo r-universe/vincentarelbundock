@@ -27,7 +27,3 @@
 [submodule "tinytable"]
 	path = tinytable
 	url = https://github.com/vincentarelbundock/tinytable
-[submodule "xfun"]
-	path = xfun
-	url = https://github.com/yihui/xfun
-	registered = false
