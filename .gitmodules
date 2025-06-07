@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Rdatasets"]
+	path = Rdatasets
+	url = https://github.com/vincentarelbundock/rdatasetspkg
 [submodule "WDI"]
 	path = WDI
 	url = https://github.com/vincentarelbundock/wdi
