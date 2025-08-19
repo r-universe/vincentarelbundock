@@ -11,10 +11,6 @@
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
-[submodule "fwb"]
-	path = fwb
-	url = https://github.com/ngreifer/fwb
-	registered = false
 [submodule "marginaleffects"]
 	path = marginaleffects
 	url = https://github.com/vincentarelbundock/marginaleffects

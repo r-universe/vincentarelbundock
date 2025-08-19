@@ -1,11 +1,5 @@
 [
   {
-    "package": "fwb",
-    "url": "https://github.com/ngreifer/fwb",
-    "via": ["marginaleffects"],
-    "from": "marginaleffects"
-  },
-  {
     "package": "tinytable",
     "url": "https://github.com/vincentarelbundock/tinytable",
     "via": ["modelsummary"],
