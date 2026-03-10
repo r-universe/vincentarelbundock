@@ -14,6 +14,7 @@
 [submodule "marginaleffects"]
 	path = marginaleffects
 	url = https://github.com/vincentarelbundock/marginaleffects
+	subdir = r
 [submodule "modelsummary"]
 	path = modelsummary
 	url = https://github.com/vincentarelbundock/modelsummary
