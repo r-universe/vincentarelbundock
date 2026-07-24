@@ -11,6 +11,7 @@
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
+	subdir = r
 [submodule "marginaleffects"]
 	path = marginaleffects
 	url = https://github.com/vincentarelbundock/marginaleffects
